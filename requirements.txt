@@ -8,3 +8,4 @@ streamlit_authenticator==0.2.2
 streamlit_option_menu==0.3.6
 google-cloud-firestore
 PySastrawi==1.2.0
+nltk
