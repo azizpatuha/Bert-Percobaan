@@ -9,3 +9,6 @@ streamlit_option_menu==0.3.6
 google-cloud-firestore
 PySastrawi==1.2.0
 nltk
+matplotlib
+seaborn
+WordCloud
