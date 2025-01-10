@@ -9,7 +9,7 @@ import nltk
 from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
 import seaborn as sns
-from sklearn.preprocessing import LabelEncoder
+# from sklearn.preprocessing import LabelEncoder
 from transformers import BertTokenizer, TFBertForSequenceClassification
 import tensorflow as tf
 from wordcloud import WordCloud
