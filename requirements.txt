@@ -12,3 +12,4 @@ nltk
 matplotlib
 seaborn
 WordCloud
+LabelEncoder
